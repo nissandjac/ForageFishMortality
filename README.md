@@ -1,4 +1,4 @@
-# Forage Fis hMortality
+# Forage fish mortality estimation using a size spectrum model
 
 Code for the paper Jacobsen, N. S., Thorson, J. T., and Essington, T. E. 2018. Detecting mortality variation to enhance forage fish population assessments. ICES Journal of Marine Science, 76: 124–135.
 
