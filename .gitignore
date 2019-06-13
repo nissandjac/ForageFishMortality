@@ -1,0 +1,7 @@
+# Only add raw code files for TMB 
+*.o
+*.dll
+
+# Ignore Rhistory and Rdata uploads 
+.Rhistory
+.RData
